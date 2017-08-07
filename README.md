@@ -5,7 +5,7 @@ Vistas in Advanced Computing
 6 August 2017
 # PRIME:
 For assignment one, the C program tries to find prime numbers between 0 – NMAX using a naïve algorithm. I boosted the performance by measuring the time it takes to scan all prime numbers (excluding printing time).
-For 1 serial process: it took 20.351 seconds.\n
+For 1 serial process: it took 20.351 seconds.
 For 2 nodes, it took 10.145 seconds.
 For 4 nodes, it took 5.090 seconds.
 For 8 nodes, it took 2.555 seconds.
